@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/huangyhmax/reactWheel/issues"
   },
-  "homepage": "https://github.com/huangyhmax/reactWheel#readme"
+  "homepage": "https://github.com/huangyhmax/reactWheel#readme",
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "typescript": "^3.9.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
 }
